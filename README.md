@@ -74,11 +74,11 @@ ________________________________________________________________________________
 
 두 개의 Texture를 Lerp 함수로 혼합할 두 텍스처가 50%씩 보이게 할 수 있는가? - 지하 3번
 
-Alpha 값이 있는 Texture의 배경에 다른 Texture가 보이도록 혼합할 수 있는가? - 지하 
+Alpha 값이 있는 Texture의 배경에 다른 Texture가 보이도록 혼합할 수 있는가? - 지하 3번
 
 흘러내리는 "폭포" Shader 만들 수 있는가? - 지상 7번 
 
-흑백 셰이더를 만들 수 있는가? - 지하 3번
+흑백 셰이더를 만들 수 있는가? - 지하 1번
 
 3D 오브젝트의 외곽선을 표시하는 Shader를 만들 수 있는가? - 지하 1번
 
@@ -132,5 +132,9 @@ ________________________________________________________________________________
 
 ![image](https://user-images.githubusercontent.com/113872751/208363393-d3213524-3dd5-4852-834a-668bfbd50fbb.png)
 ![image](https://user-images.githubusercontent.com/113872815/208365807-2fbc655b-1462-44c8-8d87-9e40da40b0f0.png)
-![image](https://user-images.githubusercontent.com/113872815/208370875-89d465c9-9b02-4cba-94f5-1ba3e4cea8d8.png)
+![image](https://user-images.githubusercontent.com/113872815/208372609-76fd9d7f-4984-4c0c-bffd-51498f2f28f2.png)
+
+
+
+
 
