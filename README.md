@@ -2,6 +2,10 @@
 
 마루 밑 유니티 프로젝트는 지브리 스튜디오의 <마루 밑 아리아테> 작품을 모티브로 제작되었습니다.
 
+Assets / ArietyHouse / Scenes/Ariati 
+
+이 경로로 Ariati이름의 씬파일을 열어서 실행시키면 됩니다
+
 <마루 밑 유니티> 200% 감상하는 방법
 
 unity asset store에서 asset을 가져와 기존 물건을 다른 용도로 배치한 점, 가장 유사하게 구현하기 위하여 구할 수 없었던 asset은 Pro Builder를 통해 직접 제작하였습니다.
